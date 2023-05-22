@@ -14,7 +14,7 @@ data_file 'VEHICLE_VARIATION_FILE' 'data/**/*.meta'
 data_file 'VEHICLE_SHOP_DLC_FILE' 'data/**/*.meta'
 data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*.meta'
 
-server_file 'sv_resourcechecker.lua'
+server_script 'sv_resourcechecker.lua'
 
 dependecies {
     'mp-vehicleaudio'
