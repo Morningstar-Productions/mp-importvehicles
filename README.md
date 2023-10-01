@@ -1,6 +1,9 @@
 # mp-importvehicles
 Import Vehicle Pack - NoPixel Inspired - Credit to Obtaizen
 
+## New FiveM ToS
+To adhere to the updated FiveM Terms of Service, this resource will no longer receive updates and will be archived.
+
 ## Installation
 - Drag and drop into `[resources]` folder
 - Ensure `mp-importvehicles` in server.cfg
